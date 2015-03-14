@@ -13,6 +13,7 @@
 		6C8E50421AB3326300795171 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C8E50411AB3326300795171 /* Images.xcassets */; };
 		6C8E50451AB3326300795171 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6C8E50431AB3326300795171 /* LaunchScreen.xib */; };
 		6C8E50511AB3326400795171 /* TableViewSimpleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C8E50501AB3326400795171 /* TableViewSimpleTests.swift */; };
+		6C8E505B1AB4C96D00795171 /* mpic.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C8E505A1AB4C96D00795171 /* mpic.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		6C8E504A1AB3326400795171 /* TableViewSimpleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TableViewSimpleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6C8E504F1AB3326400795171 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6C8E50501AB3326400795171 /* TableViewSimpleTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewSimpleTests.swift; sourceTree = "<group>"; };
+		6C8E505A1AB4C96D00795171 /* mpic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mpic.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				6C8E503A1AB3326300795171 /* AppDelegate.swift */,
 				6C8E503C1AB3326300795171 /* ViewController.swift */,
 				6C8E503E1AB3326300795171 /* Main.storyboard */,
+				6C8E505A1AB4C96D00795171 /* mpic.png */,
 				6C8E50411AB3326300795171 /* Images.xcassets */,
 				6C8E50431AB3326300795171 /* LaunchScreen.xib */,
 				6C8E50381AB3326300795171 /* Supporting Files */,
@@ -192,6 +195,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6C8E505B1AB4C96D00795171 /* mpic.png in Resources */,
 				6C8E50401AB3326300795171 /* Main.storyboard in Resources */,
 				6C8E50451AB3326300795171 /* LaunchScreen.xib in Resources */,
 				6C8E50421AB3326300795171 /* Images.xcassets in Resources */,
